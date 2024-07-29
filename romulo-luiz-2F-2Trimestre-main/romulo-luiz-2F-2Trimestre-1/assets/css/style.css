@@ -2,12 +2,12 @@
 
 @import url(reset.css);
 @import url(header.css);
-
+@import url(banner.css);
 :root{
     --branco: #FFFFFF;
     --cor-de-fundo: #ebecce;
     --laranja: #eb9b00;
-    --azul-degrade: linear-gradient(97.54deg, #002f52 39.49%,#326589 165.37%)
+    --azul-degrade: linear-gradient(97.54deg, #002f52 39.49%,#2d5f83 165.37%);
 }
 
 body{
